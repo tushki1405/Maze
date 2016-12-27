@@ -1,2 +1,2 @@
 # Maze
-Maze creation and solving using Recursive Backtracking
+The solution first creates a maze and then solves it using recursive backtracking method.
